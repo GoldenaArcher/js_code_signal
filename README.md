@@ -138,3 +138,21 @@ From this section, the level starts to add up a little bit.
 - [Special Conditional](arcade/python/meet_python/special_conditional.ipynb)
 - [Language Differences](arcade/python/meet_python/language_differences.ipynb)
 - [Count Bits](arcade/python/meet_python/count_bits.ipynb)
+- [Modulus](arcade/python/meet_python/modulus.ipynb)
+- [Simple Sort](arcade/python/meet_python/simple_sort.ipynb)
+- [Base Conversion](arcade/python/meet_python/base_conversion.ipynb)
+- [Mex Function](arcade/python/meet_python/mex_function.ipynb)
+- [List Beautifier](arcade/python/meet_python/list_beautifier.ipynb)
+
+#### Slithering in Strings
+
+- String Definition
+
+  multiple choice, not going to include it here
+
+- [Fix Message](arcade/python/slithering_in_strings/fix_message.ipynb)
+- [Cat Walk](arcade/python/slithering_in_strings/cat_walk.ipynb)
+- [Convert Tabs](arcade/python/slithering_in_strings/convert_tabs.ipynb)
+- [Feedback Review](arcade/python/slithering_in_strings/feedback_review.ipynb)
+- [Is Word Palindrome](arcade/python/slithering_in_strings/is_word_palindrome.ipynb)
+- [Permutation Cipher](arcade/python/slithering_in_strings/permutation_cipher.ipynb)
